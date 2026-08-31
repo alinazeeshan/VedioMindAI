@@ -1,0 +1,52 @@
+# Audio / YouTube
+yt-dlp
+ffmpeg-python
+
+# Local speech-to-text
+openai-whisper
+
+# PyTorch (Whisper backend)
+torch
+torchaudio
+
+# Audio processing
+pydub
+soundfile
+
+# Translation
+deep-translator
+
+# LangChain / LCEL
+langchain
+langchain-core
+langchain-community
+langchain-mistralai
+
+# Mistral API
+mistralai
+
+# RAG / Vector database
+chromadb
+
+# Hugging Face embeddings
+sentence-transformers
+transformers
+huggingface-hub
+
+# Document / text processing
+tiktoken
+
+# PDF export
+reportlab
+
+# Environment variables
+python-dotenv
+
+# Web/API interface (if using FastAPI)
+fastapi
+uvicorn
+python-multipart
+
+# File handling / utilities
+requests
+numpy

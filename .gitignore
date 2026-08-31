@@ -1,0 +1,41 @@
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Chroma / vector database
+vector_db/
+chroma_db/
+
+# Model/cache files
+.cache/
+huggingface/
+*.bin
+*.safetensors
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Generated media
+downloads/
+*.wav
+*.mp3
+*.mp4
